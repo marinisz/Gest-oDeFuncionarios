@@ -1,4 +1,2 @@
 Gerente;1;Maria Rosa;4;
 Junior;2;Alessandro;0;
-Gerente;3;Pedro;10;
-Gerente;4;Pedrinho;0;
